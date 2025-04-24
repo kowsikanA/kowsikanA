@@ -9,13 +9,12 @@
 
 - 🌐 Web development experience using **HTML, CSS, JavaScript, and React**
 
-- 🧩 Effective problem-solver, [always eager to learn and take on new challenges](always eager to learn and take on new challenges)
+- 🧩 Effective problem-solver, always eager to learn and take on new challenges 
+- 💬 Open to opportunities in software development, web development, or other tech-related ventures
+  
+- 🚀 Enthusiastic about building responsive and user-friendly web applications
 
-- 💬 Open to opportunities in [software development, web development, or other tech-related ventures](software development, web development, or other tech-related ventures)
-
-- 🚀 Enthusiastic about building **responsive and user-friendly web applications**
-
-- 🤝 Team-oriented, with experience in collaborative **projects and extracurricular activities**
+- 🤝 Team-oriented, with experience in collaborative projects and extracurricular activities
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
