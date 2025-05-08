@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kowsikan Arudchelvan</h1>
-<h3 align="center">An Aspiring Software Developer</h3>
+
 
 - 🎓 Computer Science student at **Ontario Tech University with a passion for software and web development**
 
